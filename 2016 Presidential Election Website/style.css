@@ -1,0 +1,46 @@
+body {
+	background-color: #ee2b2b;
+	color: #0052cc;
+	width:60%;
+	text-align:center;
+	font-family:"Comic Sans MS";
+}
+
+h1{
+	font-family:"Franklin Gothic Medium";
+	text-align:center;
+}
+
+p{
+font-family:Chalkboard;
+color: #000000;
+}
+
+ul{
+	list-style-position:inside;
+	color: #000000;
+}
+
+h2{
+	text-align: center;
+	color: #0052cc;
+}
+
+td{
+	color: #000000;
+	text-align:center;
+}
+
+li1{
+	display: inline;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    border-right: 1px solid #bbb;
+    background-color: #808080;
+}
+
+/* Change the link color to #111 (black) on hover */
+li1:hover {
+    background-color: #111;
+}
